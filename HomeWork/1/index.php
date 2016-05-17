@@ -29,53 +29,86 @@ echo '<h4>2. Функция, принимающая 2 параметра мас�
 чисел и строку, обозначающую арифметическое действие, которое нужно выполнить со всеми элементами
 массива. Функция должна выводить результат на экран.</h4>';
 
-function calculate($arrayNumbers, $actionString = '+')
-{
-    $result = 0;
+$arrayNumbers =[6,6];
+$actionString = '/';
+echo calculate($arrayNumbers,$actionString);
 
-    switch ($actionString) {
+function calculate($arrayNumbers, $actionString = false)
+{
+    function add($arrayNumbers){
+        $result = $arrayNumbers['0'];
+        $count = count($arrayNumbers);
+        for ($i = 1; $i < $count; $i++) {
+            $result += $arrayNumbers[$i];
+            return $result;
+        }
+    }
+
+    switch ($actionString)
+    {
         case '+':
         {
-            foreach ($arrayNumbers as $item) {
-                $result += $item;
+            $result = $arrayNumbers['0'];
+            $count = count($arrayNumbers);
+            for ($i = 1; $i < $count; $i++)
+            {
+                $result += $arrayNumbers[$i];
             }
             return $result;
+
         }
             break;
+
         case '-':
         {
-            foreach ($arrayNumbers as $item) {
-                $result -= $item;
+            $result = $arrayNumbers['0'];
+            $count = count($arrayNumbers);
+            for ($i = 1; $i < $count; $i++)
+            {
+                $result -= $arrayNumbers[$i];
             }
             return $result;
         }
             break;
+
         case '*':
         {
-            foreach ($arrayNumbers as $item) {
-                $result *= $item;
+            $result = $arrayNumbers['0'];
+            $count = count($arrayNumbers);
+            for ($i = 1; $i < $count; $i++)
+            {
+                $result *= $arrayNumbers[$i];
             }
             return $result;
         }
             break;
+
         case '/':
         {
-            foreach ($arrayNumbers as $item) {
-                $result /= $item;
+            $result = $arrayNumbers['0'];
+            $count = count($arrayNumbers);
+            for ($i = 1; $i < $count; $i++)
+            {
+                if($arrayNumbers[$i] != 0)
+                {
+                    $result /= $arrayNumbers[$i];
+
+                }else
+                    {
+                    $result = 'На ноль делить нельзя';
+                    break;
+                    }
+
             }
             return $result;
         }
             break;
+
         default:
         {
-            return 'Данного действия не предусмотрено ';
+            return 'Данного действия не предусмотрено.';
         }
     }
 
 }
 
-
-
-$arrayNumbers =[4,2];
-$actionString = '/';
-echo calculate($arrayNumbers,$actionString);
