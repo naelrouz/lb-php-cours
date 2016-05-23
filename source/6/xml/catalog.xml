@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <products>
+        <product id="1">
+            <title>Celeron 1.8</title>
+            <mark>3.6</mark>
+            <price>1595.00</price>
+            <count>12</count>
+            <description>Процессор Celeron® 1.8GHz, 128kb, 478-PGA, 400Mhz, OEM 0.18</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="2">
+            <title>Celeron 2.0GHz</title>
+            <mark>3.7</mark>
+            <price>1969.00</price>
+            <count>2</count>
+            <description>Процессор Celeron® 2.0GHz, 128KB, 478-PGA, 400MHz, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="3">
+            <title>Celeron 2.4GHz</title>
+            <mark>3.9</mark>
+            <price>2109.00</price>
+            <count>4</count>
+            <description>Процессор Celeron® 2.4GHz, 128kb, 478-PGA, 400Mhz, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="4">
+            <title>Celeron D 320 2.4GHz</title>
+            <mark>4.1</mark>
+            <price>1962.00</price>
+            <count>1</count>
+            <description>Процессор Celeron® D 320 2.4GHz, 256kb, 478-PGA, 533Mhz, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="5">
+            <title>Celeron D 325 2.53GHz</title>
+            <mark>4.1</mark>
+            <price>2747.00</price>
+            <count>6</count>
+            <description>Процессор Celeron® D 325 2.53GHz, 256kb, 478-PGA, 533Mhz, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="6">
+            <title>Celeron D 315 2.26GHz</title>
+            <mark>4.1</mark>
+            <price>1880.00</price>
+            <count>6</count>
+            <description>Процессор Celeron® D 315 2.26GHz, 256kb, 478-PGA, 533Mhz, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="7">
+            <title>Intel Pentium 4 3.2GHz</title>
+            <mark>4.5</mark>
+            <price>7259.00</price>
+            <count>5</count>
+            <description>Процессор Intel® Pentium®4 3.2GHz, 1Mb, 478-PGA, 800Mhz, Hyper-Threading, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="8">
+            <title>Intel Pentium 4 3.0GHz</title>
+            <mark>4.6</mark>
+            <price>6147.00</price>
+            <count>1</count>
+            <description>Процессор Intel® Pentium®4 3.0GHz, 512Kb, 478-PGA, 800Mhz, Hyper-Threading, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="9">
+            <title>Intel Pentium 4 3.0GHz</title>
+            <mark>4.5</mark>
+            <price>5673.00</price>
+            <count>12</count>
+            <description>Процессор Intel® Pentium®4 3.0GHz, 1Mb, 478-PGA, 800Mhz, Hyper-Treading, OEM</description>
+            <category>Процессоры</category>
+        </product>
+        <product id="10">
+            <title>Gigabyte GA-8I848P-RS</title>
+            <mark>3.9</mark>
+            <price>1896.00</price>
+            <count>4</count>
+            <description>Материнская плата SOCKET-478 Gigabyte GA-8I848P-RS i848, (800Mhz), DDR, AGP 8x, ATA100, SATA ,
+                Sound 6ch, USB2.0, ATX
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="11">
+            <title>Gigabyte GA-8IG1000</title>
+            <mark>3.8</mark>
+            <price>2420.00</price>
+            <count>2</count>
+            <description>Материнская плата SOCKET-478 Gigabyte GA-8IG1000
+                i865g,FSB800/533/400,2chDDR400/333/266(4слота),Video,AGP,5PCI,ATA-100,S-ATA
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="12">
+            <title>Gigabyte GA-8IPE1000G</title>
+            <mark>3.7</mark>
+            <price>2289.00</price>
+            <count>6</count>
+            <description>Материнская плата Socket-478 Gigabyte GA-8IPE1000G
+                i865PE(800/533/400Mhz),2ch400/333/266DDR,PCI/AGP,U-100,AC`97,Lan(1Gb),S-ATA,USB 2.0, ATX
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="13">
+            <title>Asustek P4C800-E Delux</title>
+            <mark>4.1</mark>
+            <price>5395.00</price>
+            <count>4</count>
+            <description>Материнская плата Socket-478 Asustek P4C800-E Delux
+                i875P,FSB800/533Mhz,2chDDR400/333,AGP,6PCI,iEEE1394, Raid, U-133,S-ATA, AC`97, Lan(1000), ATX
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="14">
+            <title>Asustek P4P800-VM\L i865G</title>
+            <mark>4.0</mark>
+            <price>2518.00</price>
+            <count>6</count>
+            <description>Материнская плата Socket-478 Asustek P4P800-VM\L i865G FSB800/533/400,
+                2chDDR400/333/266(4слота),AGP,video,3PCI,ATA-100,S-ATA,lan ,M-ATX
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="15">
+            <title>Epox EP-4PDA3I</title>
+            <mark>4.0</mark>
+            <price>2289.00</price>
+            <count>5</count>
+            <description>Материнская плата Socket-478 Epox EP-4PDA3I i865PE(800Mhz), 2chDDR, PCI/AGP, SATA, Lan, U-100,
+                RAID, AC`97, LAN, ATX
+            </description>
+            <category>Материнские платы</category>
+        </product>
+        <product id="16">
+            <title>ASUSTEK A9600XT/TD</title>
+            <mark>4.7</mark>
+            <price>5156.00</price>
+            <count>2</count>
+            <description>Видеоадаптер ASUSTEK A9600XT/TD 128Mb DDR SDRAM, 2x400MHz DAC, AGP8x, ATI Radeon 9600XT, DVI,
+                TV- out, BOX
+            </description>
+            <category>Видеоадаптеры</category>
+        </product>
+        <product id="17">
+            <title>ASUSTEK V9520X</title>
+            <mark>4.0</mark>
+            <price>1602.00</price>
+            <count>6</count>
+            <description>Видеоадаптер ASUSTEK V9520X 128Mb DDR SDRAM, 400MHz DAC, AGP 8x, GeForce FX 5200, TV- out,
+                BOX
+            </description>
+            <category>Видеоадаптеры</category>
+        </product>
+        <product id="18">
+            <title>SAPPHIRE 256MB RADEON 9550</title>
+            <mark>3.8</mark>
+            <price>2730.00</price>
+            <count>3</count>
+            <description>ВИДЕОКАРТА SAPPHIRE 256MB RADEON 9550, TV-out, DVI, OEM</description>
+            <category>Видеоадаптеры</category>
+        </product>
+        <product id="19">
+            <title>GIGABYTE AGP GV-N59X128D</title>
+            <mark>3.6</mark>
+            <price>5886.00</price>
+            <count>6</count>
+            <description>ВИДЕОКАРТА GIGABYTE AGP GV-N59X128D FX5900XT OEM</description>
+            <category>Видеоадаптеры</category>
+        </product>
+        <product id="20">
+            <title>Maxtor 6Y120P0</title>
+            <mark>4.5</mark>
+            <price>2456.00</price>
+            <count>6</count>
+            <description>Винчестер 120 GB Maxtor 6Y120P0, UDMA-133, 7200rpm, 8MB</description>
+            <category>Жёсткие диски</category>
+        </product>
+        <product id="21">
+            <title>Maxtor 6B200P0</title>
+            <mark>4.0</mark>
+            <price>3589.00</price>
+            <count>4</count>
+            <description>Винчестер 200 GB Maxtor 6B200P0, UDMA-133, 7200rpm, 8Mb</description>
+            <category>Жёсткие диски</category>
+        </product>
+        <product id="22">
+            <title>Samsung SP0812C</title>
+            <mark>4.0</mark>
+            <price>2093.00</price>
+            <count>5</count>
+            <description>Винчестер 80 GB Samsung SP0812C, SATA, 7200rpm SpinPoint P80 SerialATA Буферная кэш-память 8 MB
+                7200об/мин Интерфейс Serial ATA 1.0
+            </description>
+            <category>Жёсткие диски</category>
+        </product>
+        <product id="23">
+            <title>Seagate Barracuda ST3160023A</title>
+            <mark>4.1</mark>
+            <price>3139.00</price>
+            <count>3</count>
+            <description>Винчестер 160 GB Seagate Barracuda ST3160023A, UDMA-100, 7200rpm, 8Mb</description>
+            <category>Жёсткие диски</category>
+        </product>
+        <product id="24">
+            <title>Seagate ST3120026A</title>
+            <mark>4.2</mark>
+            <price>2468.00</price>
+            <count>8</count>
+            <description>Винчестер 120 GB Seagate ST3120026A, UDMA-100, 7200rpm, 8MB</description>
+            <category>Жёсткие диски</category>
+        </product>
+        <product id="25">
+            <title>DDR-400 256MB Kingston</title>
+            <mark>4.8</mark>
+            <price>1085.00</price>
+            <count>20</count>
+            <description>Оперативная память DDR-400 256MB Kingston</description>
+            <category>Оперативная память</category>
+        </product>
+        <product id="26">
+            <title>DDR-400 256MB Hynix Original</title>
+            <mark>4.6</mark>
+            <price>1179.00</price>
+            <count>15</count>
+            <description>Оперативная память DDR-400 256MB Hynix Original</description>
+            <category>Оперативная память</category>
+        </product>
+        <product id="27">
+            <title>DDR-400 256MB PQI</title>
+            <mark>4.2</mark>
+            <price>899.00</price>
+            <count>10</count>
+            <description>Оперативная память DDR-400 256MB PQI</description>
+            <category>Оперативная память</category>
+        </product>
+        <product id="28">
+            <title>DDR-400 512MB Kingston</title>
+            <mark>4.8</mark>
+            <price>1932.00</price>
+            <count>20</count>
+            <description>Оперативная память DDR-400 512MB Kingston</description>
+            <category>Оперативная память</category>
+        </product>
+        <product id="29">
+            <title>DDR-400 512MB PQI</title>
+            <mark>4.2</mark>
+            <price>1690.00</price>
+            <count>12</count>
+            <description>Оперативная память DDR-400 512MB PQI</description>
+            <category>Оперативная память</category>
+        </product>
+        <product id="30">
+            <title>DDR-400 512MB Hynix</title>
+            <mark>4.5</mark>
+            <price>1717.00</price>
+            <count>8</count>
+            <description>Оперативная память DDR-400 512MB Hynix</description>
+            <category>Оперативная память</category>
+        </product>
+    </products>
+</shop>

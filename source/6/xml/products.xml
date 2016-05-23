@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <category id="1">
+        <title>Телефоны</title>
+        <products>
+            <product>
+                <id>1</id>
+                <title>Samsung s-302</title>
+                <color>Белый</color>
+                <price>3000</price>
+                <count>20</count>
+            </product>
+            <product>
+                <id>2</id>
+                <title>Samsung s-302</title>
+                <color>Черный</color>
+                <price>3500</price>
+                <count>35</count>
+            </product>
+            <product>
+                <id>8</id>
+                <title>Samsung s-3021</title>
+                <color>Красный</color>
+                <price>3400</price>
+                <count>35</count>
+            </product>
+            <product>
+                <id>3</id>
+                <title>Iphone 4S</title>
+                <color>Черный</color>
+                <price>2000</price>
+                <count>21</count>
+            </product>
+            <product>
+                <id>4</id>
+                <title>Sony Experia</title>
+                <color>Серый</color>
+                <price>1000</price>
+                <count>5</count>
+            </product>
+        </products>
+    </category>
+    <category id="2">
+        <title>Планшеты</title>
+        <products>
+            <product>
+                <id>5</id>
+                <title>Ipad 3</title>
+                <color>Белый</color>
+                <price>1200</price>
+                <count>31</count>
+            </product>
+            <product>
+                <id>6</id>
+                <title>Ipad 4</title>
+                <color>Черный</color>
+                <price>1500</price>
+                <count>30</count>
+            </product>
+            <product>
+                <id>7</id>
+                <title>Samsung galaxy s tab</title>
+                <color>Белый</color>
+                <price>2000</price>
+                <count>10</count>
+            </product>
+        </products>
+    </category>
+
+</catalog>

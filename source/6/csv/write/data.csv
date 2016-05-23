@@ -1,0 +1,32 @@
+ID;Название;Марка;Цена;Количество;Описание;Категория
+1;"Celeron 1.8";3.6;1595.00;12;"Процессор Celeron® 1.8GHz, 128kb, 478-PGA, 400Mhz, OEM 0.18";Процессоры
+2;"Celeron 2.0GHz";3.7;1969.00;2;"Процессор Celeron® 2.0GHz, 128KB, 478-PGA, 400MHz, OEM ";Процессоры
+3;"Celeron 2.4GHz";3.9;2109.00;4;"Процессор Celeron® 2.4GHz, 128kb, 478-PGA, 400Mhz, OEM ";Процессоры
+4;"Celeron D 320 2.4GHz";4.1;1962.00;1;"Процессор Celeron® D 320 2.4GHz, 256kb, 478-PGA, 533Mhz, OEM";Процессоры
+5;"Celeron D 325 2.53GHz";4.1;2747.00;6;"Процессор Celeron® D 325 2.53GHz, 256kb, 478-PGA, 533Mhz, OEM ";Процессоры
+6;"Celeron D 315 2.26GHz";4.1;1880.00;6;"Процессор Celeron® D 315 2.26GHz, 256kb, 478-PGA, 533Mhz, OEM ";Процессоры
+7;"Intel Pentium 4 3.2GHz";4.5;7259.00;5;"Процессор Intel® Pentium®4 3.2GHz, 1Mb, 478-PGA, 800Mhz, Hyper-Threading, OEM ";Процессоры
+8;"Intel Pentium 4 3.0GHz";4.6;6147.00;1;"Процессор Intel® Pentium®4 3.0GHz, 512Kb, 478-PGA, 800Mhz, Hyper-Threading, OEM ";Процессоры
+9;"Intel Pentium 4 3.0GHz";4.5;5673.00;12;"Процессор Intel® Pentium®4 3.0GHz, 1Mb, 478-PGA, 800Mhz, Hyper-Treading, OEM ";Процессоры
+10;"Gigabyte GA-8I848P-RS";3.9;1896.00;4;"Материнская плата SOCKET-478 Gigabyte GA-8I848P-RS i848, (800Mhz), DDR, AGP 8x, ATA100, SATA , Sound 6ch, USB2.0, ATX";"Материнские платы"
+11;"Gigabyte GA-8IG1000";3.8;2420.00;2;"Материнская плата SOCKET-478 Gigabyte GA-8IG1000 i865g,FSB800/533/400,2chDDR400/333/266(4слота),Video,AGP,5PCI,ATA-100,S-ATA";"Материнские платы"
+12;"Gigabyte GA-8IPE1000G";3.7;2289.00;6;"Материнская плата Socket-478 Gigabyte GA-8IPE1000G i865PE(800/533/400Mhz),2ch400/333/266DDR,PCI/AGP,U-100,AC`97,Lan(1Gb),S-ATA,USB 2.0, ATX";"Материнские платы"
+13;"Asustek P4C800-E Delux";4.1;5395.00;4;"Материнская плата Socket-478 Asustek P4C800-E Delux i875P,FSB800/533Mhz,2chDDR400/333,AGP,6PCI,iEEE1394, Raid, U-133,S-ATA, AC`97, Lan(1000), ATX";"Материнские платы"
+14;"Asustek P4P800-VM\L i865G";4.0;2518.00;6;"Материнская плата Socket-478 Asustek P4P800-VM\L i865G FSB800/533/400, 2chDDR400/333/266(4слота),AGP,video,3PCI,ATA-100,S-ATA,lan ,M-ATX";"Материнские платы"
+15;"Epox EP-4PDA3I";4.0;2289.00;5;"Материнская плата Socket-478 Epox EP-4PDA3I i865PE(800Mhz), 2chDDR, PCI/AGP, SATA, Lan, U-100, RAID, AC`97, LAN, ATX";"Материнские платы"
+16;"ASUSTEK A9600XT/TD";4.7;5156.00;2;"Видеоадаптер ASUSTEK A9600XT/TD 128Mb DDR SDRAM, 2x400MHz DAC, AGP8x, ATI Radeon 9600XT, DVI, TV- out, BOX ";Видеоадаптеры
+17;"ASUSTEK V9520X";4.0;1602.00;6;"Видеоадаптер ASUSTEK V9520X 128Mb DDR SDRAM, 400MHz DAC, AGP 8x, GeForce FX 5200, TV- out, BOX ";Видеоадаптеры
+18;"SAPPHIRE 256MB RADEON 9550";3.8;2730.00;3;"ВИДЕОКАРТА SAPPHIRE 256MB RADEON 9550, TV-out, DVI, OEM ";Видеоадаптеры
+19;"GIGABYTE AGP GV-N59X128D";3.6;5886.00;6;"ВИДЕОКАРТА GIGABYTE AGP GV-N59X128D FX5900XT OEM ";Видеоадаптеры
+20;"Maxtor 6Y120P0";4.5;2456.00;6;"Винчестер 120 GB Maxtor 6Y120P0, UDMA-133, 7200rpm, 8MB ";"Жёсткие диски"
+21;"Maxtor 6B200P0";4.0;3589.00;4;"Винчестер 200 GB Maxtor 6B200P0, UDMA-133, 7200rpm, 8Mb ";"Жёсткие диски"
+22;"Samsung SP0812C";4.0;2093.00;5;"Винчестер 80 GB Samsung SP0812C, SATA, 7200rpm SpinPoint P80 SerialATA Буферная кэш-память 8 MB  7200об/мин  Интерфейс Serial ATA 1.0";"Жёсткие диски"
+23;"Seagate Barracuda ST3160023A";4.1;3139.00;3;"Винчестер 160 GB Seagate Barracuda ST3160023A, UDMA-100, 7200rpm, 8Mb ";"Жёсткие диски"
+24;"Seagate ST3120026A";4.2;2468.00;8;"Винчестер 120 GB Seagate ST3120026A, UDMA-100, 7200rpm, 8MB ";"Жёсткие диски"
+25;"DDR-400 256MB Kingston";4.8;1085.00;20;"Оперативная память DDR-400 256MB Kingston ";"Оперативная память"
+26;"DDR-400 256MB Hynix Original ";4.6;1179.00;15;"Оперативная память DDR-400 256MB Hynix Original ";"Оперативная память"
+27;"DDR-400 256MB PQI";4.2;899.00;10;"Оперативная память DDR-400 256MB PQI ";"Оперативная память"
+28;"DDR-400 512MB Kingston";4.8;1932.00;20;"Оперативная память DDR-400 512MB Kingston ";"Оперативная память"
+29;"DDR-400 512MB PQI";4.2;1690.00;12;"Оперативная память DDR-400 512MB PQI ";"Оперативная память"
+30;"DDR-400 512MB Hynix";4.5;1717.00;8;"Оперативная память DDR-400 512MB Hynix ";"Оперативная память"
+45;"Тестовый процессор";0.1;200.00;13;"Описание тестового процессора";Процессоры

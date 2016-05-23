@@ -1,0 +1,20 @@
+{
+  "name": "phpdataapp",
+  "version": "0.0.1",
+  "authors": [
+    "Anton Golomazov <agolomazov@itloft.ru>"
+  ],
+  "description": "Webinar PHP data",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "bootstrap": "3.3.5"
+  }
+}
