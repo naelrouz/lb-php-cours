@@ -1,0 +1,16 @@
+Возникла ошибка в файле C:\OpenServer-2.3\OpenServer\domains\php-secure.local\database\connection.php в строке 10
+Дата возникновения ошибки: 25.08.2015 20:05:46
+Текст ошибки [1045] - SQLSTATE[HY000] [1045] Access denied for user 'root1'@'localhost' (using password: NO)
+--------------------------------------------------------------------------------
+Возникла ошибка в файле C:\OpenServer\domains\lb-php-cours\source\7\database\connection.php в строке 10
+Дата возникновения ошибки: 23.05.2016 14:51:52
+Текст ошибки [1049] - SQLSTATE[HY000] [1049] Unknown database 'shop'
+--------------------------------------------------------------------------------
+Возникла ошибка в файле C:\OpenServer\domains\lb-php-cours\source\7\database\connection.php в строке 10
+Дата возникновения ошибки: 23.05.2016 14:52:47
+Текст ошибки [1049] - SQLSTATE[HY000] [1049] Unknown database 'shop'
+--------------------------------------------------------------------------------
+Возникла ошибка в файле C:\OpenServer\domains\lb-php-cours\source\7\database\connection.php в строке 10
+Дата возникновения ошибки: 23.05.2016 14:58:45
+Текст ошибки [1049] - SQLSTATE[HY000] [1049] Unknown database 'shop'
+--------------------------------------------------------------------------------

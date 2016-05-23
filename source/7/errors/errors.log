@@ -1,0 +1,18 @@
+[25-Aug-2015 20:35:14 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root1'@'localhost' (using password: NO)' in C:\OpenServer-2.3\OpenServer\domains\php-secure.local\errors\connection.php:3
+Stack trace:
+#0 C:\OpenServer-2.3\OpenServer\domains\php-secure.local\errors\connection.php(3): PDO->__construct('mysql:dbname=sh...', 'root1', '')
+#1 C:\OpenServer-2.3\OpenServer\domains\php-secure.local\errors\example.php(7): require_once('C:\\OpenServer-2...')
+#2 {main}
+  thrown in C:\OpenServer-2.3\OpenServer\domains\php-secure.local\errors\connection.php on line 3
+[23-May-2016 15:34:31 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root1'@'localhost' (using password: NO)' in C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php:3
+Stack trace:
+#0 C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php(3): PDO->__construct('mysql:dbname=sh...', 'root1', '')
+#1 C:\OpenServer\domains\lb-php-cours\source\7\errors\example.php(7): require_once('C:\\OpenServer\\d...')
+#2 {main}
+  thrown in C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php on line 3
+[23-May-2016 15:36:22 Europe/Moscow] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'lbshop'' in C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php:3
+Stack trace:
+#0 C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php(3): PDO->__construct('mysql:dbname=lb...', 'root', '')
+#1 C:\OpenServer\domains\lb-php-cours\source\7\errors\example.php(7): require_once('C:\\OpenServer\\d...')
+#2 {main}
+  thrown in C:\OpenServer\domains\lb-php-cours\source\7\errors\connection.php on line 3
