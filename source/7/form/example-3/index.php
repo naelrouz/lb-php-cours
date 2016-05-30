@@ -7,7 +7,6 @@
         div{
             margin: 0 0 10px;
         }
-
         label{
             display: block;
         }
